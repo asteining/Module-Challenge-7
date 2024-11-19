@@ -16,10 +16,10 @@ The Professional README Generator is a command-line application that helps devel
 
 ## Installation
 1. Clone this repository to your local machine:
-      git clone git@github.com:asteining/Module-Challenge-7-AramisSteininger.git
+      -git clone git@github.com:asteining/Module-Challenge-7-AramisSteininger.git
 2. Navigate to the project directory
 3. Install the required dependencies:
-      npm install
+      -npm install
 4. Ensure you have Node.js installed on your system (version 14+ is recommended).
 
 
@@ -27,7 +27,7 @@ The Professional README Generator is a command-line application that helps devel
 To generate a README file:
 1. Open a terminal and navigate to the project directory.
 2. Run the application:
-      node index.js
+      -node index.js
 3. Answer the prompts to provide information about your project.
 4. After completing the prompts, the application will generate a README.md file in the current directory.
 
@@ -41,9 +41,9 @@ Anyone can contribute
 To run tests for the application:
 
 1. Ensure all dependencies are installed:
-     npm install
-Run the test suite (if applicable):
-     npm test
+     -npm install
+2. Run the test suite (if applicable):
+     -npm test
 
 ## Questions
 For additional questions, you can reach me at:
