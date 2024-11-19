@@ -1,10 +1,10 @@
 
-# h
+# Module Challenge 7
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-g
+Dynamic Read.me creation
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,21 +15,21 @@ g
 - [Questions](#questions)
 
 ## Installation
-h
+copy this code and copy into local repository. Then run node index.js
 
 ## Usage
-h
+This will be used to create a Read.me file dynamically
 
 ## License
 This application is covered under the MIT license.
 
 ## Contributing
-h
+Anyone can contribute
 
 ## Tests
-h
+You will need to ensure all dependencies are installed correctly using npm install i
 
 ## Questions
 For additional questions, you can reach me at:
-- GitHub: [h](https://github.com/h)
-- Email: [h](mailto:h)
+- GitHub: [asteining](https://github.com/asteining)
+- Email: [aramissteininger@gmail.com](mailto:aramissteininger@gmail.com)
